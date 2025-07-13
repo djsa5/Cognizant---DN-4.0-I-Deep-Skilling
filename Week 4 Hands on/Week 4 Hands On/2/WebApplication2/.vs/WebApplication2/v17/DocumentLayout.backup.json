@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bhuvaneshwaran\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0784F8E-D10C-4266-A230-355C62E34A11}|WebApplication2\\WebApplication2.csproj|c:\\users\\bhuvaneshwaran\\source\\repos\\webapplication2\\webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0784F8E-D10C-4266-A230-355C62E34A11}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0784F8E-D10C-4266-A230-355C62E34A11}|WebApplication2\\WebApplication2.csproj|c:\\users\\bhuvaneshwaran\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0784F8E-D10C-4266-A230-355C62E34A11}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0784F8E-D10C-4266-A230-355C62E34A11}|WebApplication2\\WebApplication2.csproj|c:\\users\\bhuvaneshwaran\\source\\repos\\webapplication2\\webapplication2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0784F8E-D10C-4266-A230-355C62E34A11}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0784F8E-D10C-4266-A230-355C62E34A11}|WebApplication2\\WebApplication2.csproj|c:\\users\\bhuvaneshwaran\\source\\repos\\webapplication2\\webapplication2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0784F8E-D10C-4266-A230-355C62E34A11}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApplication2",
+              "DocumentMoniker": "C:\\Users\\Bhuvaneshwaran\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeDocumentMoniker": "WebApplication2\\WebApplication2.csproj",
+              "ToolTip": "C:\\Users\\Bhuvaneshwaran\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeToolTip": "WebApplication2\\WebApplication2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T05:47:18.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhuvaneshwaran\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhuvaneshwaran\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:41:07.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Bhuvaneshwaran\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Bhuvaneshwaran\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:38:23.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhuvaneshwaran\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Bhuvaneshwaran\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:39:18.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
